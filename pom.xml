@@ -25,11 +25,7 @@
 
 	<modules>
 		<module>org.lunifera.org.eclipse.gemini.jpa</module>
-<!-- 		<module>org.eclipse.gemini.naming.utests</module> -->
-<!-- 		<module>integration-testing</module> -->
 		<module>org.lunifera.org.eclipse.gemini.jpa.feature</module>
-<!-- 		<module>org.eclipse.gemini.naming.repository</module> -->
-<!-- 		<module>org.lunifera.org.eclipse.gemini.naming.p2</module> -->
 	</modules>
 
 	<repositories>
@@ -177,14 +173,6 @@
 				<version>${tycho-version}</version>
 				<configuration>
 					<resolver>p2</resolver>
-					<target>
-						<artifact>
-							<groupId>${project.groupId}</groupId>
-							<artifactId>target-platform</artifactId>
-							<version>${project.version}</version>
-							<classifier>gemini-naming</classifier>
-						</artifact>
-					</target>
 					<environments>
 						<environment>
 							<os>linux</os>
