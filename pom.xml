@@ -20,7 +20,7 @@
 	<groupId>org.eclipse.gemini.jpa</groupId>
 	<artifactId>lunifera-gemini-jpa</artifactId>
 	<packaging>pom</packaging>
-	<version>1.2.0-M1</version>
+	<version>1.2.0.M1</version>
 	<name>Lunifera's version of Gemini JPA</name>
 
 	<modules>
