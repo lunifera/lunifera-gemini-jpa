@@ -17,18 +17,16 @@
 	</properties>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.eclipse.gemini.naming</groupId>
-	<artifactId>org.eclipse.gemini.naming.parent</artifactId>
+	<groupId>org.eclipse.gemini.jpa</groupId>
+	<artifactId>lunifera-gemini-jpa</artifactId>
 	<packaging>pom</packaging>
-	<version>1.1.0-SNAPSHOT</version>
-	<name>Gemini Naming parent project</name>
-	<url>http://maven.apache.org</url>
+	<version>1.2.0-M1</version>
+	<name>Lunifera's version of Gemini JPA</name>
 
 	<modules>
 		<module>org.lunifera.org.eclipse.gemini.jpa</module>
 <!-- 		<module>org.eclipse.gemini.naming.utests</module> -->
 <!-- 		<module>integration-testing</module> -->
-		<module>org.eclipse.gemini.naming.target</module>
 		<module>org.lunifera.org.eclipse.gemini.jpa.feature</module>
 <!-- 		<module>org.eclipse.gemini.naming.repository</module> -->
 <!-- 		<module>org.lunifera.org.eclipse.gemini.naming.p2</module> -->
