@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.lunifera.ecview.core.feature.core"
+      id="org.lunifera.org.eclipse.gemini.jpa.feature"
       label="%featureName"
-      version="0.9.1.qualifier"
+      version="1.2.0.M1"
       provider-name="%providerName">
 
    <description>
