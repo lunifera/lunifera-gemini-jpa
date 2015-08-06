@@ -4,7 +4,7 @@
   <artifactId>org.lunifera.org.eclipse.gemini.jpa</artifactId>
   <groupId>org.eclipse.gemini.naming</groupId>
   <packaging>eclipse-plugin</packaging>
-  <name>Gemini Naming Bundle</name>
+  <name>Gemini JPA Bundle</name>
   <url>http://maven.apache.org</url>
 
    <parent>

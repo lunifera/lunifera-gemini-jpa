@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Gemini JPA
 Bundle-SymbolicName: org.lunifera.org.eclipse.gemini.jpa
 Bundle-Version: 1.2.0.M1
-Bundle-ClassPath: org.eclipse.gemini.jpa_1.2.0.M1
+Bundle-ClassPath: .
 Bundle-Activator: org.eclipse.gemini.jpa.Activator
 Bundle-Vendor: Lunifera GmbH
 Require-Bundle: org.eclipse.persistence.asm;bundle-version="3.3.1",
