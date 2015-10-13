@@ -2,7 +2,6 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
   <artifactId>org.lunifera.org.eclipse.gemini.jpa</artifactId>
-  <groupId>org.eclipse.gemini.naming</groupId>
   <packaging>eclipse-plugin</packaging>
   <name>Gemini JPA Bundle</name>
   <url>http://maven.apache.org</url>
